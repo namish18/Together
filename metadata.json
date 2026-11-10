@@ -1,0 +1,6 @@
+{
+  "name": "Together — Bluetooth Social Time Tracker",
+  "description": "Track time spent with friends and loved ones via privacy-first Bluetooth proximity detection, interactive relationship analytics, and encrypted time-capsule secret messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
